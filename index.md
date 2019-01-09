@@ -6,9 +6,9 @@ Welcome to the github repo of the Cybernaut CTF Team.  Here you will find resour
 
 We are aiming to meet biweekly at Indeed's Tech Campus located at 6433 Champion Grandview way. We meet on Tuesday and the meeting lasts from 7PM-11PM, all upcoming meetings will be posted on here or you can find us on Eventbrite. All you need to participate is a functional laptop, although learning and practice outside the group is expected to maintain pace.
 
-You can find our [meeting minutes here](meeting-minutes/index.md)
-We also have a [list of useful resources](resources/index.md) that we are compiling.
+You can find our [meeting minutes here](meeting-minutes/)
+We also have a [list of useful resources](resources/) that we are compiling.
 
 ## Next Meeting!
-[1-15-19](meeting-minutes/1-15-19.md)
+[1-15-19](meeting-minutes/1-15-19.html)
 
