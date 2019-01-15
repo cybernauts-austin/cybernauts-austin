@@ -1,2 +1,8 @@
-# This is a Test
-Lorem ipsum, blog blog blog. Post on a post.
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
+# Welcome
+
+**Hello world**, Lorem ipsum, blog blog blog. Post on a post.
