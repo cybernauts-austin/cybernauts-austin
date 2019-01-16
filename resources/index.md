@@ -2,10 +2,17 @@
 
 Here are some helping tutorials or learning aids to get you started or to help you flesh out your CTF skills.
 
-## Links
+##General:
+* [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Live Overflow, a youtube channel which starts from zero and takes you to hero
 
-* [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Live Overflow, a youtube channel which starts from scratch and provides thorough explanations
+##Binary Exploitation:
 * [MBE](https://github.com/RPISEC/MBE) - Linux focused class with exploit development tutorials
 * [FuzzySecurity](https://www.fuzzysecurity.com/tutorials.html) - Windows focused class with basic exploit development tutorials
 * [Corelan](https://www.corelan.be) - Windows focused class with basic exploit development tutorials 
 * [Exploit Education](https://exploit.education/) - A series of exploitation challenges. I would suggest starting on the Protostar stack series. 
+* [CSE - Buffer Overflow](http://www.cse.scu.edu/~tschwarz/coen152_05/Lectures/BufferOverflow.html) - A useful primer on buffer overflows
+
+## Reverse Engineering
+* [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) - A great overview of some essential concepts in x86 assembly
+* [beginners.re](https://beginners.re/) - A very comprehensive (and free!) book on Reverse Engineering, covers multiple architectures, techniques, etc.
+
