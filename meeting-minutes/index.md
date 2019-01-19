@@ -1,6 +1,6 @@
 ## Upcoming Meetings
 
-[1.30.19](1-30-19.html)
+[1.29.19](1-29-19.html)
 
 ## Previous Meetings
 
