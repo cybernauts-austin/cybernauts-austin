@@ -16,3 +16,6 @@ Here are some helping tutorials or learning aids to get you started or to help y
 * [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) - A great overview of some essential concepts in x86 assembly
 * [beginners.re](https://beginners.re/) - A very comprehensive (and free!) book on Reverse Engineering, covers multiple architectures, techniques, etc.
 
+
+##Tools:
+* [Pwntools](https://github.com/Gallopsled/pwntools) - A useful python CTF tooling framework
