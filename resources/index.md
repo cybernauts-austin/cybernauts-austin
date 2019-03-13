@@ -16,7 +16,14 @@ Here are some helping tutorials or learning aids to get you started or to help y
 ## Reverse Engineering
 * [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) - A great overview of some essential concepts in x86 assembly
 * [beginners.re](https://beginners.re/) - A very comprehensive (and free!) book on Reverse Engineering, covers multiple architectures, techniques, etc.
+* [unnamedre.github.io](https://unnamedre.github.io/) - Reverse Engineering podcast
 
+### Embedded Firmware Devices
+* [exploitee.rs](https://www.exploitee.rs/) - Wiki/Forum for a group of IoT hackers
+* [scanlime.org](https://scanlime.org/) - IoT hacker blog
 
 ##Tools:
 * [Pwntools](https://github.com/Gallopsled/pwntools) - A useful python CTF tooling framework
+
+##Other:
+* [Azeria Labs](https://azeria-labs.com) - Resource to learn ARM Reverse Engineering/Hacking 
