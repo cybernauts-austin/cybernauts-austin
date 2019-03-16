@@ -5,6 +5,7 @@ Here are some helping tutorials or learning aids to get you started or to help y
 ##General:
 * [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Live Overflow, a youtube channel which starts from zero and takes you to hero
 * [CTF101](https://ctf101.org/) - Explores some introductory concepts in all common CTF category types
+* [picoCTF](https://picoctf.com) - An introductory CTF put out by CMU
 
 ##Binary Exploitation:
 * [MBE](https://github.com/RPISEC/MBE) - Linux focused class with exploit development tutorials
