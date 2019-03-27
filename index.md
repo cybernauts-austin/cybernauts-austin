@@ -10,4 +10,4 @@ You can find our [meeting minutes here](meeting-minutes/)
 We also have a [list of useful resources](resources/) that we are compiling.
 
 ## Next Meeting!
-[03-26-19](meeting-minutes/3-26-19.html)
+[04-09-19](meeting-minutes/4-09-19.html)
